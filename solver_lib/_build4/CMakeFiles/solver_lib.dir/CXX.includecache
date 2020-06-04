@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/art/avel0041/workspace/projects/homework03/solver_lib/solver.cpp
+solver.h
+/home/art/avel0041/workspace/projects/homework03/solver_lib/solver.h
+math.h
+-
+stdexcept
+-
+
+/home/art/avel0041/workspace/projects/homework03/solver_lib/solver.h
+

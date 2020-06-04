@@ -1,0 +1,3 @@
+/home/art/avel0041/workspace/projects/homework03/solver_lib/_build4/CMakeFiles/rebuild_cache.dir
+/home/art/avel0041/workspace/projects/homework03/solver_lib/_build4/CMakeFiles/edit_cache.dir
+/home/art/avel0041/workspace/projects/homework03/solver_lib/_build4/CMakeFiles/solver_lib.dir
